@@ -77,3 +77,9 @@ form input:focus {
 .bad {
     background: rgb(250, 102, 102);
 }
+
+@media (max-width: 768px) {
+    .textos{
+        font-size: 18px;
+    }
+}
