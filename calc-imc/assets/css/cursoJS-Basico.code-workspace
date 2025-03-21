@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../cursoJS-Basico"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cursoJS-logica-programacao"
+	}
+}
